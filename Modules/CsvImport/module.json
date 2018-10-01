@@ -1,0 +1,16 @@
+{
+    "name": "CsvImport",
+    "alias": "csvimport",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\CsvImport\\Providers\\CsvImportServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
